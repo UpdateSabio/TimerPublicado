@@ -4,15 +4,11 @@
 Arcade Timer para HyperSpin y Rocket Launcher
 
 
-## Requerimientos general
-* Visual Studio 2022 (vs2022)
-* HyperSpin
-* Rocket Launcher
 
 ## Requerimientos para el proyecto
--TimerArcadeInicio :  Windows Form .NET 8.0  
--BLL :  Biblioteca de clases .NET Framework  4.7.2
-
+* HyperSpin
+* Rocket Launcher
+* Windows 10
 ## Archivos necesarios
 - https://mega.nz/folder/YLlWBQSS#9IA_q8j3A5v1t04qIQQ5iw
 
@@ -28,15 +24,6 @@ Abre la solucion con vs2022
 
 ```bash
   cd my-project
-```
-
-Instalar paquetes nuget
-
-```bash
-    NAudio 2.2.1
-    SharpDX 4.2.0
-    SharpDX.Direct2D1 4.2.0
-    SharpDX.Mathematics 4.2.0
 ```
 
 
