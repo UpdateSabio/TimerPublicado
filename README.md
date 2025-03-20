@@ -20,15 +20,6 @@ Clone the project
   git clone https://github.com/UpdateSabio/TimerPublicado.git
 ```
 
-Abre la solucion con vs2022
-
-```bash
-  cd my-project
-```
-
-
-
-
 ## Links bibliograficos
 
  - [RocketLauncher Wiki Development](https://www.rlauncher.com/wiki/index.php/Development)
