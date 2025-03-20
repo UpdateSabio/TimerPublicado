@@ -21,7 +21,7 @@ Arcade Timer para HyperSpin y Rocket Launcher
 Clone the project
 
 ```bash
-  git clone https://github.com/UpdateSabio/Arcade-Timer.git
+  git clone https://github.com/UpdateSabio/TimerPublicado.git
 ```
 
 Abre la solucion con vs2022
