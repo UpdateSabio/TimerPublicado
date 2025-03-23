@@ -1,3 +1,6 @@
+# Invitame un cafe
+Paypal: https://www.paypal.com/paypalme/CitalanKevin 
+Nombre : Kevin Gomez
 
 # Titulo del proyecto
 
@@ -71,7 +74,3 @@ Mandamos a llamar la función antes de iniciar el emulador y despues de terminar
 * Whatsapp: 954-313-8520
 * Usuario Discord: updatesabio
 
-# Invitame un cafe
-Clave Interbancaria : 1271 3301 3992 1734 71  
-Paypal: https://www.paypal.com/paypalme/CitalanKevin 
-Nombre : Kevin Gomez
